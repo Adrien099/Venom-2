@@ -10,13 +10,13 @@ global.ytname = "David Cyril"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
+global.ownernumber = '2347043759577,2349066528353,254782572110,917439317360'  //creator number
 global.ownername = 'David Cyril' //owner name
 global.botname = '🕷Venom-2🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄David_Cyril\n\nContact: +2349066528353'
+global.author = '𝆺𝅥 𝇁 ֹ 𝄄 س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴 𓂃🧣'
 
 //console view/theme
 global.themeemoji = '🪀'
